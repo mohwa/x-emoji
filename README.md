@@ -1,6 +1,6 @@
 # x-emoji
 
-WebComponent 의 Shadow DOM 을 활용한 emoji 생성 라이브러리
+WebComponent 를 활용한 emoji 관련 Custom Element
 
 http://mohwa.github.io/x-emoji/
 
